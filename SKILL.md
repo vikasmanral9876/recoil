@@ -1,3 +1,9 @@
+---
+name: Skills
+type: skills
+version: 1
+---
+
 # Skills
 
 ## Programming Languages
@@ -23,5 +29,4 @@
 
 ## Soft Skills
 - Problem Solving
-- Teamwork
 - Communication
